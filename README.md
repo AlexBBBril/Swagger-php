@@ -1,5 +1,4 @@
 # Swagger-php
-### Swagger-php settings
 Generate interactive [OpenAPI](https://www.openapis.org) documentation for your RESTful API using [doctrine annotations](http://doctrine-common.readthedocs.org/en/latest/reference/annotations.html).
 
 ## Features
